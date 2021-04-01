@@ -1,3 +1,3 @@
-# Convite Refatorado
+# Refactored Invitation
 
-Refatorando o código do convite da festa de Python para JavaScript.
+Refactoring Python code to JavaScript.
